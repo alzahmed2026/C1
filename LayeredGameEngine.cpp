@@ -1,4 +1,3 @@
-// LayeredGameEngine.cpp
 #include <iostream>
 #include <string>
 #include <vector>
